@@ -5,5 +5,4 @@ Controls:
 arrow keys
 
 To start the game, run the code: 
-
-python main.py in Terminal
+python main.py
